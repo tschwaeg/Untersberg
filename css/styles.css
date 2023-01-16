@@ -1,0 +1,26 @@
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: "League Spartan", sans-serif;
+}
+
+.jumbotron {
+    padding: 65px;
+    background-image: #E3DDDC;
+    color: white;
+    margin: 0;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px; 
+}
+
+.navbar {
+    font-family: "League Spartan", sans-serif;
+    font-size: 20px;
+}
+
